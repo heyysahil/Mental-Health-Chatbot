@@ -1,7 +1,7 @@
 # Mental-Health-Chatbot
 Chatbots can be classified on the basis of different attributes - 
 
-<img src="https://github.com/pandeyanuradha/Chatbot-for-mental-health/blob/cf6ec506c29952048d698fbea18708cf275d66e7/classification.png" width="500" height="600">
+<img src="https://github.com/heyysahil/Mental-Health-Chatbot/blob/main/classification.png" width="500" height="600">
 
 My research was related to the design approaches, namely, rule-based, retrieval-based, and generative-based.
 
